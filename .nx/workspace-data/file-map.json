@@ -1,0 +1,215 @@
+{
+  "version": "6.0",
+  "nxVersion": "19.3.1",
+  "deps": {
+    "@nrwl/nest": "^19.3.1"
+  },
+  "pathMappings": {},
+  "nxJsonPlugins": [],
+  "fileMap": {
+    "projectFileMap": {
+      "frontend": [
+        {
+          "file": "SmartHome/apps/frontend/.eslintrc.json",
+          "hash": "11012487992710232822"
+        },
+        {
+          "file": "SmartHome/apps/frontend/index.html",
+          "hash": "5524826232346293131"
+        },
+        {
+          "file": "SmartHome/apps/frontend/jest.config.ts",
+          "hash": "11366266282979955084"
+        },
+        {
+          "file": "SmartHome/apps/frontend/project.json",
+          "hash": "1581687993160957088"
+        },
+        {
+          "file": "SmartHome/apps/frontend/public/favicon.ico",
+          "hash": "9303420814833116677"
+        },
+        {
+          "file": "SmartHome/apps/frontend/src/app/app.module.scss",
+          "hash": "8887387885984320532"
+        },
+        {
+          "file": "SmartHome/apps/frontend/src/app/app.spec.tsx",
+          "hash": "18303175862115286083"
+        },
+        {
+          "file": "SmartHome/apps/frontend/src/app/app.tsx",
+          "hash": "652890577687181876"
+        },
+        {
+          "file": "SmartHome/apps/frontend/src/app/nx-welcome.tsx",
+          "hash": "729168762476089670"
+        },
+        {
+          "file": "SmartHome/apps/frontend/src/assets/.gitkeep",
+          "hash": "3244421341483603138"
+        },
+        {
+          "file": "SmartHome/apps/frontend/src/main.tsx",
+          "hash": "4731961929376199421"
+        },
+        {
+          "file": "SmartHome/apps/frontend/src/styles.scss",
+          "hash": "5195668842064076916"
+        },
+        {
+          "file": "SmartHome/apps/frontend/tsconfig.app.json",
+          "hash": "7232119452847825095"
+        },
+        {
+          "file": "SmartHome/apps/frontend/tsconfig.json",
+          "hash": "824604371006306276"
+        },
+        {
+          "file": "SmartHome/apps/frontend/tsconfig.spec.json",
+          "hash": "11378287594513225419"
+        },
+        {
+          "file": "SmartHome/apps/frontend/vite.config.ts",
+          "hash": "14818892344715860331"
+        }
+      ],
+      "frontend-e2e": [
+        {
+          "file": "SmartHome/apps/frontend-e2e/.eslintrc.json",
+          "hash": "632147010597293032"
+        },
+        {
+          "file": "SmartHome/apps/frontend-e2e/playwright.config.ts",
+          "hash": "9586660742709727405"
+        },
+        {
+          "file": "SmartHome/apps/frontend-e2e/project.json",
+          "hash": "2827390866139710423"
+        },
+        {
+          "file": "SmartHome/apps/frontend-e2e/src/example.spec.ts",
+          "hash": "16019101014373124625"
+        },
+        {
+          "file": "SmartHome/apps/frontend-e2e/tsconfig.json",
+          "hash": "13413400511057489941"
+        }
+      ]
+    },
+    "nonProjectFiles": [
+      {
+        "file": ".gitignore",
+        "hash": "18318511172391054080"
+      },
+      {
+        "file": "LICENSE",
+        "hash": "4207481656502933762"
+      },
+      {
+        "file": "README.md",
+        "hash": "13374387856411731186"
+      },
+      {
+        "file": "SmartHome/.editorconfig",
+        "hash": "5443105041930014821"
+      },
+      {
+        "file": "SmartHome/.eslintignore",
+        "hash": "7663861978715868291"
+      },
+      {
+        "file": "SmartHome/.eslintrc.json",
+        "hash": "18315524891129148814"
+      },
+      {
+        "file": "SmartHome/.gitignore",
+        "hash": "17107242987988535020"
+      },
+      {
+        "file": "SmartHome/.prettierignore",
+        "hash": "14688272390704683536"
+      },
+      {
+        "file": "SmartHome/.prettierrc",
+        "hash": "16267754514737964994"
+      },
+      {
+        "file": "SmartHome/.vscode/extensions.json",
+        "hash": "4422400126597322578"
+      },
+      {
+        "file": "SmartHome/README.md",
+        "hash": "796540474169961963"
+      },
+      {
+        "file": "SmartHome/jest.config.ts",
+        "hash": "3494843969422251966"
+      },
+      {
+        "file": "SmartHome/jest.preset.js",
+        "hash": "9430166341120122740"
+      },
+      {
+        "file": "SmartHome/nx.json",
+        "hash": "10236592598513985956"
+      },
+      {
+        "file": "SmartHome/package-lock.json",
+        "hash": "4965578534765548962"
+      },
+      {
+        "file": "SmartHome/package.json",
+        "hash": "7737008162462986577"
+      },
+      {
+        "file": "SmartHome/tsconfig.base.json",
+        "hash": "16936441711144470533"
+      },
+      {
+        "file": "SmartHomeDoc/.obsidian/app.json",
+        "hash": "1389868326933519382"
+      },
+      {
+        "file": "SmartHomeDoc/.obsidian/appearance.json",
+        "hash": "1389868326933519382"
+      },
+      {
+        "file": "SmartHomeDoc/.obsidian/core-plugins-migration.json",
+        "hash": "11420684127239161475"
+      },
+      {
+        "file": "SmartHomeDoc/.obsidian/core-plugins.json",
+        "hash": "18393834854389129998"
+      },
+      {
+        "file": "SmartHomeDoc/.obsidian/graph.json",
+        "hash": "8018693457910377693"
+      },
+      {
+        "file": "SmartHomeDoc/.obsidian/plugins/obsidian-smart-typography/main.js",
+        "hash": "15936825022711610510"
+      },
+      {
+        "file": "SmartHomeDoc/.obsidian/plugins/obsidian-smart-typography/manifest.json",
+        "hash": "13408045332777807916"
+      },
+      {
+        "file": "SmartHomeDoc/.obsidian/workspace.json",
+        "hash": "9962792904808115872"
+      },
+      {
+        "file": "SmartHomeDoc/SmartHomePet by Shaera.md",
+        "hash": "2943655069310933133"
+      },
+      {
+        "file": "package-lock.json",
+        "hash": "16712883919043865655"
+      },
+      {
+        "file": "package.json",
+        "hash": "5169637548863664383"
+      }
+    ]
+  }
+}
