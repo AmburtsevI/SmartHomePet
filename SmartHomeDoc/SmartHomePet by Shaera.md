@@ -1,4 +1,4 @@
-
+### [[Идея]]
 ## Стек
 
 ### Frontend: 
@@ -9,3 +9,5 @@
 
 1.  NestJS
 2.  PostgresSQL - БД
+
+
